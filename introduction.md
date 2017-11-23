@@ -1,2 +1,2 @@
-I love Ruby and JavaScript!
-My pro skills are: C++, Java and algorythms.
+* I love Ruby and JavaScript!
+* My pro skills are: C++, Java and algorythms.
